@@ -15,3 +15,11 @@
 h1{
     text-align: center;
 }
+
+img{
+    background-color: rgba(255, 255, 255, 0.562);
+}
+
+td{
+    line-height: 40px;
+}
