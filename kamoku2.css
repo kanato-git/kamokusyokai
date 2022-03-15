@@ -13,5 +13,8 @@
 
 h1{
     text-align: center;
-   
+}
+
+td{
+    line-height: 40px;
 }
